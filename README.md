@@ -13,3 +13,5 @@ This is commit2
 to check 2nd merge
 
 checking normal PR merge (no comment)
+
+doing squash merge
