@@ -3,7 +3,6 @@
 Line 1
 Line 2 with comment
 
-This is commit 2
 
 This is from 07
 This is commit1
@@ -31,3 +30,5 @@ rev chk
 cr,c,c,c,f cr
 
 check2
+
+first change
