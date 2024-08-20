@@ -20,18 +20,4 @@ check rejection issues end point
 
 check for code review comment
 
-check for branch
-
-check
-
-review check
-
-rev chk
-
-cr,c,c,c,f cr
-
-check2
-
-chg
-
-comm
+removed
